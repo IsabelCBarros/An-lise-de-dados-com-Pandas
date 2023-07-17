@@ -1,6 +1,6 @@
 <div align="center">
 
-# Análise-de-dados-com-Pandas - Case Airbnb Amsterdã
+# Análise de dados com Pandas - Case Airbnb Amsterdã
 
 <div align="center">
   
