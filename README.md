@@ -124,3 +124,5 @@ Aplicação da Estratégia Geral de Análise de Dados.
  
  Histograma
 
+# *“Sem dados você é apenas mais uma pessoa com uma opinião.” William Edwards Deming*
+
