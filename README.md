@@ -1,3 +1,12 @@
+## BIBLIOTECA PANDAS
+
+Pandas é uma biblioteca para Ciência de Dados de código aberto (open source), construída sobre a linguagem Python, e que providencia uma abordagem rápida e flexível, com estruturas robustas para se trabalhar com dados relacionais (ou rotulados), e tudo isso de maneira simples e intuitiva.
+
+De maneira geral, o Pandas pode ser utilizado para várias atividades e processos, entre eles: limpeza e tratamento de dados, análise exploratória de dados (EDA), suporte em atividades de Machine Learning, consultas e queries em bancos de dados relacionais, visualização de dados, webscraping e muito mais. E além disso, também possui ótima integração com várias outras bibliotecas muito utilizadas em Ciência de Dados, tais como: Numpy, Scikit-Learn, Seaborn, Altair, Matplotlib, Plotly, Scipy e outros.
+
+Dentro do pacote Pandas, há dois objetos primários importantes: as Series e os DataFrames.
+
+
 <div align="center">
 
 # Análise de dados com Pandas - Case Airbnb Amsterdã
